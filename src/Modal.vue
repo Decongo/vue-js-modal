@@ -691,7 +691,7 @@ export default {
   top: 0;
   width: 100%;
   height: 100vh;
-  background: rgba(0, 0, 0, 0.2);
+  /* background: rgba(0, 0, 0, 0.2); */
   z-index: 999;
   opacity: 1;
 }
@@ -723,7 +723,7 @@ export default {
   background-color: white;
   text-align: left;
   border-radius: 3px;
-  box-shadow: 0 20px 60px -2px rgba(27, 33, 58, 0.4);
+  /* box-shadow: 0 20px 60px -2px rgba(27, 33, 58, 0.4); */
   padding: 0;
 }
 
