@@ -723,8 +723,9 @@ export default {
   background-color: white;
   text-align: left;
   border-radius: 3px;
+  border: 2px solid #666;
   /* box-shadow: 0 20px 60px -2px rgba(27, 33, 58, 0.4); */
-  padding: 0;
+  padding: 2em 2em 0 2em;
 }
 
 .v--modal.v--modal-fullscreen {
